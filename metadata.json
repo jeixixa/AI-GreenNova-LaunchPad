@@ -1,0 +1,7 @@
+{
+  "name": " GreenNova AI LaunchPad",
+  "description": "The definitive growth engine for entrepreneurs. Modelled after Freedom Threads.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
